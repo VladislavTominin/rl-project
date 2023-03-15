@@ -4,3 +4,7 @@ One of the serious problem in training RL models is their computational complexi
 ### Q-Learning.ipynb - contain a code for Q-learning training
 
 ### DQL_Network.ipynb - contain a code for a Deep Q-Learning training
+
+
+Enviroment Visualization:
+![](https://github.com/VladislavTominin/rl-project/ezgif.com-video-to-gif.gif)
