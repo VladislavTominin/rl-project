@@ -7,4 +7,4 @@ One of the serious problem in training RL models is their computational complexi
 
 
 Enviroment Visualization:
-![](https://github.com/VladislavTominin/rl-project/ezgif.com-video-to-gif.gif)
+![](ezgif.com-video-to-gif.gif)
